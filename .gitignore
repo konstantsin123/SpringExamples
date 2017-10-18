@@ -1,11 +1,7 @@
-node_modules/
-bower_components/
 .tmp/
-dist/
 /.project
 build/
 .gradle/
-static/
 
 *.log
 
@@ -47,7 +43,6 @@ local.properties
 #############
 *.eml
 *.iml
-.idea/
 out/
 
 #############
