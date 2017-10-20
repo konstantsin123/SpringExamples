@@ -43,6 +43,7 @@ local.properties
 #############
 *.eml
 *.iml
+.idea/
 out/
 
 #############
